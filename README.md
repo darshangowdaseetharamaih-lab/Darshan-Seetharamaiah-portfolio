@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://imgur.com/N3xwbJt.png" alt="Darshan Gowda Portfolio Banner" width="100%">
-</p>
 <h1 align="center">💼 Darshan Gowda Jinnagara Seetharamaiah</h1>
 
 <p align="center">
