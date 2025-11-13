@@ -21,9 +21,7 @@
 ---
 
 ## 🧠 About Me
-Analytical and results-driven **Finance & Business Analyst** with expertise in **financial planning, business analysis, and data-driven decision support**.  
-I specialize in transforming raw financial data into actionable insights through Excel, Power BI, SQL, and SAP.  
-Passionate about corporate finance, FP&A, and process optimization in global business environments.
+Analytical and results-driven **Finance & Business Analyst** with expertise in **financial planning, business analysis, and data-driven decision support**.I specialize in transforming raw financial data into actionable insights through Excel, Power BI, SQL, and SAP. Passionate about corporate finance, FP&A, and process optimization in global business environments.
 
 ---
 
