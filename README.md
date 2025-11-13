@@ -1,4 +1,22 @@
-[Darshan Gowda Jinnagara Seetharamaiah_Financial Analyst II_20251113.pdf](https://github.com/user-attachments/files/23519965/Darshan.Gowda.Jinnagara.Seetharamaiah_Financial.Analyst.II_20251113.pdf)
+<p align="center">
+  <img src="https://imgur.com/N3xwbJt.png" alt="Darshan Gowda Portfolio Banner" width="100%">
+</p>
+<h1 align="center">💼 Darshan Gowda Jinnagara Seetharamaiah</h1>
+
+<p align="center">
+  <b>MBA in Finance & Accounting | Financial & Business Analyst</b><br>
+  Edmond, OK | 📧 <a href="mailto:darshangowdajs@gmail.com">darshangowdajs@gmail.com</a> | 📞 +1 (580) 375-8868
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/darshangowdajs/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/darshangowdaseetharamaih-lab/Darshan-Seetharamaiah-portfolio/blob/main/Darshan%20Seetharamaiah%20finance%20Analyst.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-8A2BE2?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume"/>
+  </a>
+</p>
+
 # Darshan-Seetharamaiah-portfolio
 Professional Portfolio showcasing MBA projects, finance models, and data analytics work.
 # 💼 Darshan Gowda Jinnagara Seetharamaiah
@@ -42,18 +60,25 @@ Passionate about corporate finance, FP&A, and process optimization in global bus
 
 ## 📊 Featured Projects
 
-### **ONEOK Inc. Equity Valuation – CFA Research Challenge**  
-*Nov 2024 – Mar 2025*  
-- Built DCF and scenario-based valuation models incorporating risk sensitivity and market drivers.  
-- Presented buy/hold equity recommendations; team ranked in top 10% regionally.
+### 💠 ONEOK Inc. Equity Valuation (CFA Research Challenge)
+📅 *Nov 2024 – Mar 2025*  
+📈 Built DCF and scenario-based valuation models integrating risk sensitivity and market drivers.  
+🏆 Delivered buy/hold recommendations to an industry panel; ranked Top 10% regionally.  
 
-### **Financial Performance Dashboard (Power BI)**  
-- Designed an interactive dashboard visualizing revenue, expenses, and profitability KPIs.  
-- Integrated SQL-based automation for real-time updates.
+---
 
-### **Forecasting Model (Excel + Power Query)**  
-- Built an automated forecasting template improving reporting timelines by 30%.  
-- Integrated PowerPivot for variance analysis and scenario testing.
+### 📊 Financial Performance Dashboard (Power BI)
+📊 Designed an interactive dashboard visualizing revenue, expenses, and profitability KPIs.  
+⚙️ Integrated SQL-based automation for real-time updates, boosting reporting speed by 25%.  
+🧠 Tools: Power BI, SQL, Excel
+
+---
+
+### 📉 Forecasting Model (Excel + Power Query)
+📂 Built an automated forecasting model improving monthly reporting by 30%.  
+📑 Integrated PowerPivot for scenario analysis and variance testing.  
+🧰 Tools: Excel, Power Query, PowerPivot
+
 
 ---
 
