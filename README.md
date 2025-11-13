@@ -87,5 +87,5 @@ Passionate about corporate finance, FP&A, and process optimization in global bus
 
 ## 🌐 Contact
 📧 [darshangowdajs@gmail.com](mailto:darshangowdajs@gmail.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/darshan-gowda-jinnagara-seetharamaiah-needjob/)[Darshan Seetharamaiah finance Analyst.pdf](https://github.com/user-attachments/files/23519536/Darshan.Seetharamaiah.finance.Analyst.pdf)
+🔗 [LinkedIn](https://www.linkedin.com/in/darshan-gowda-jinnagara-seetharamaiah-needjob/)
 
