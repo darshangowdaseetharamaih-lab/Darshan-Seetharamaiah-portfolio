@@ -1,3 +1,4 @@
+[Darshan Gowda Jinnagara Seetharamaiah_Financial Analyst II_20251113.pdf](https://github.com/user-attachments/files/23519965/Darshan.Gowda.Jinnagara.Seetharamaiah_Financial.Analyst.II_20251113.pdf)
 # Darshan-Seetharamaiah-portfolio
 Professional Portfolio showcasing MBA projects, finance models, and data analytics work.
 # 💼 Darshan Gowda Jinnagara Seetharamaiah
@@ -81,7 +82,7 @@ Passionate about corporate finance, FP&A, and process optimization in global bus
 ---
 
 ## 📄 Resume
-[📥 Download My Resume (PDF)](https://github.com/darshan-portfolio/Darshan_Seetharamaiah_Finance_Analyst.pdf)
+[📥 Download My Resume (PDF)](https://github.com/user-attachments/files/23519982/Darshan.Gowda.Jinnagara.Seetharamaiah_Financial.Analyst.II_20251113.pdf)
 
 ---
 
