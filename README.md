@@ -17,12 +17,6 @@
   </a>
 </p>
 
-# Darshan-Seetharamaiah-portfolio
-Professional Portfolio showcasing MBA projects, finance models, and data analytics work.
-# 💼 Darshan Gowda Jinnagara Seetharamaiah
-
-📍 Edmond, OK | 📧 [darshangowdajs@gmail.com](mailto:darshangowdajs@gmail.com) | 📞 +1 (580) 375-8868  
-🎓 MBA in Finance & Accounting | Southwestern Oklahoma State University (GPA: 3.8, Expected May 2025)
 
 ---
 
