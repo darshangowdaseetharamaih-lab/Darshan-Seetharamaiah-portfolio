@@ -9,8 +9,9 @@
   <a href="https://www.linkedin.com/in/darshan-seetharamaiah-finance-analyst/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
+
   <a href="https://github.com/user-attachments/files/23519982/Darshan.Gowda.Jinnagara.Seetharamaiah_Financial.Analyst.II_20251113.pdf" target="_blank">
-    <img src="https://github.com/user-attachments/files/23519982/Darshan.Gowda.Jinnagara.Seetharamaiah_Financial.Analyst.II_20251113.pdf" alt="Resume"/>
+    <img src="https://img.shields.io/badge/Resume-8A2BE2?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume"/>
   </a>
 </p>
 
