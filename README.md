@@ -9,7 +9,7 @@
   <a href="https://www.linkedin.com/in/darshan-seetharamaiah-finance-analyst/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://github.com/darshangowdaseetharamaih-lab/Darshan-Seetharamaiah-portfolio/blob/main/Darshan%20Seetharamaiah%20finance%20Analyst.pdf" target="_blank">
+  <a href="https://github.com/user-attachments/files/23519982/Darshan.Gowda.Jinnagara.Seetharamaiah_Financial.Analyst.II_20251113.pdf" target="_blank">
     <img src="https://github.com/user-attachments/files/23519982/Darshan.Gowda.Jinnagara.Seetharamaiah_Financial.Analyst.II_20251113.pdf" alt="Resume"/>
   </a>
 </p>
