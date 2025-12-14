@@ -10,7 +10,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 
-  <a href="resume/Darshan%20Seetharamaiah%20Business%20Analyst.pdf" target="_blank">
+  <a href="resume/[Darshan Seetharamaiah Business Analyst.pdf](https://github.com/user-attachments/files/24146668/Darshan.Seetharamaiah.Business.Analyst.pdf)
     <img src="https://img.shields.io/badge/Resume-8A2BE2?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume"/>
   </a>
 </p>
@@ -54,7 +54,7 @@ Expert in **Power BI, SQL, and Advanced Excel** for end-to-end analytics — fro
 - Processed **AR/AP transactions exceeding $100K monthly** with zero discrepancies  
 - Supported **variance analysis, due diligence, and audit reviews** to ensure financial accuracy and regulatory compliance  
 - Standardized reporting by developing Excel templates, reducing errors in audit workflows  
-- Contributed to **5+ high-stakes annual audits** for major clients  
+- Contributed to the successful completion of **5+ high-stakes annual audits** for major clients  
 
 ---
 
@@ -110,7 +110,7 @@ Stakeholder Management, Communication, Problem Solving, Process Improvement, Cro
 ---
 
 ## 📄 Resume
-📥 **[Download Resume (PDF)](resume/Darshan%20Seetharamaiah%20Business%20Analyst.pdf)**  
+📥 **[Download Resume (PDF)][Darshan Seetharamaiah Business Analyst.pdf](https://github.com/user-attachments/files/24146668/Darshan.Seetharamaiah.Business.Analyst.pdf)**  
 
 ---
 
