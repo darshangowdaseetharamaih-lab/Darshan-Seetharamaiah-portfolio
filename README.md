@@ -11,7 +11,6 @@
   </a>
 
   <a href="resume/Darshan_Seetharamaiah_Business_Analyst.pdf" target="_blank">
-
     <img src="https://img.shields.io/badge/Resume-8A2BE2?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume"/>
   </a>
 </p>
@@ -111,7 +110,13 @@ Stakeholder Management, Communication, Problem Solving, Process Improvement, Cro
 ---
 
 ## 📄 Resume
-📥 **[Download Resume (PDF)](resume/Darshan%20Seetharamaiah%20Business%20Analyst.pdf)**  
+<a href="resume/Darshan_Seetharamaiah_Business_Analyst.pdf" target="_blank">
+  📥 <b>Download Resume (PDF)</b>
+</a>
+
+<br>
+
+[Download Resume (PDF)](resume/Darshan_Seetharamaiah_Business_Analyst.pdf)
 
 ---
 
