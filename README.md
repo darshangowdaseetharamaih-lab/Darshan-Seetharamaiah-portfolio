@@ -10,7 +10,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 
-  <a href="resume/[Darshan Seetharamaiah Business Analyst.pdf](https://github.com/user-attachments/files/24146668/Darshan.Seetharamaiah.Business.Analyst.pdf)
+  <a href="resume/Darshan%20Seetharamaiah%20Business%20Analyst.pdf" target="_blank">
     <img src="https://img.shields.io/badge/Resume-8A2BE2?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume"/>
   </a>
 </p>
@@ -110,7 +110,7 @@ Stakeholder Management, Communication, Problem Solving, Process Improvement, Cro
 ---
 
 ## 📄 Resume
-📥 **[Download Resume (PDF)][Darshan Seetharamaiah Business Analyst.pdf](https://github.com/user-attachments/files/24146668/Darshan.Seetharamaiah.Business.Analyst.pdf)**  
+📥 **[Download Resume (PDF)](resume/Darshan%20Seetharamaiah%20Business%20Analyst.pdf)**  
 
 ---
 
