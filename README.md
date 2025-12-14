@@ -1,4 +1,4 @@
-h1 align="center">💼 Darshan Gowda Jinnagara Seetharamaiah</h1>
+<h1 align="center">💼 Darshan Gowda Jinnagara Seetharamaiah</h1>
 
 <p align="center">
   <b>Business Analyst | MBA – Business Management & Data Analytics</b><br>
