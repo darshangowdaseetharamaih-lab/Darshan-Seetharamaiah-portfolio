@@ -10,7 +10,8 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 
-  <a href="resume/Darshan%20Seetharamaiah%20Business%20Analyst.pdf" target="_blank">
+  <a href="resume/Darshan_Seetharamaiah_Business_Analyst.pdf" target="_blank">
+
     <img src="https://img.shields.io/badge/Resume-8A2BE2?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume"/>
   </a>
 </p>
